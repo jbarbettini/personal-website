@@ -1,0 +1,30 @@
+# Section title
+title = "  "
+
+[[list]]
+    avatar = "julie.jpg"
+    name   = "Julie Edge"
+    title  = "CEO and Co-Founder, Creelio"
+    quote  = "**Jennifer Ong is one of those rare finds in the work world.** She is incredibly organized and process oriented, and yet thrives in the chaos of Startupland. Jen wore many hats for Creelio from social media marketer to website coder to party planner and internal culture warrior. She is smart, savvy and dedicated. Jen can figure out anything thrown at her. She also brought out the best in her co-workers. Jen certainly helped me to be a more successful CEO. "
+    logo   = "creelio.png"
+
+[[list]]
+    avatar = "victoria.jpg"
+    name   = "Victoria Phan"
+    title  = "Product Manager, Magnifi Group"
+    quote  = "Jen is a prime example of the ideal manager. When I stepped into her role after she left Magnifi, all of her clients raved about how mature and confident she had been, and how she was always willing to go above and beyond to take care of them. She is organized, meticulous, extremely driven, and truly talented at making clients feel at ease. The amount of foresight with which she approaches any problem guarantees that you will hardly ever have to worry about what she may have missed. I wholeheartedly believe that her intense focus, ambition, and work ethic will lead her to accomplish great things in the future."
+    logo   = "lw.png"
+
+[[list]]
+    avatar = "spike.jpg"
+    name   = "Spike Logan"
+    title  = "Content Strategist, Creelio"
+    quote  = "There's nothing I can say about Jen that her work doesn't already say for her, but I have no problem heaping extra praise on such a smart and innovative thinker. Jen is fueled by great ideas, pushing the boundaries of technological platforms, and getting results for her clients. Drive and talent: Jen has ample amounts of both."
+    logo   = "creelio2.png"
+
+[[list]]
+    avatar = "jen.jpg"
+    name   = "Jennifer Yang, MD"
+    title  = "Board of Directors, The Triple Helix Inc."
+    quote  = "I have seen Jen grow from being a staff writer to Chief Operating Officer of North America, and finally as Chief Executive Officer, where her vision and drive took the organization to the next level. Jen is very personable and approaches her duties with a great sense of humility, earning her the respect of chapter leaders, the international team, organization alumni, and Board of Director members. She is the kind of person who will see through a project while planning every step with impeccable detail and foresight. If she sees the potential for improvement, she will take the initiative to formulate a new plan. Jen is efficient, reliable, and pragmatic, both a team player and a strong leader."
+    logo   = "tth.png"

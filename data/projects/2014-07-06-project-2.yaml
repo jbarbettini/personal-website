@@ -1,0 +1,8 @@
+modalID: 2
+title: Time To Eat, the quick solution to life's most difficult first world problem
+date: 2016-04-15
+img: personal-time-to-eat.jpg
+client: Personal
+clientLink: "http://jbarbettini.github.io/"
+category: HTML, CSS, Javascript, Yelp/Google APIs
+description: "Personally, I waste an embarrassing amount of time trying to decide what to eat, and beyond that, what's even worth going out to get. I know I'm not unique in this dilemma, so I'm hopeful this app will solve that problems for other people (and their significant others), too. <br><br> This project is done with pure Javascript, HTML, and CSS, and is my first foray into the world of coding. Check it out [here](http://jbarbettini.github.io/time-to-eat/)"
