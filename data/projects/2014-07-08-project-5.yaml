@@ -1,8 +1,0 @@
-modalID: 5
-title: Twittler
-date: 2016-05-10
-img: personal-twittler.jpg
-client: Personal
-clientLink: "#"
-category: HTML, CSS, jQuery
-description: Twittler is a short project I used to practice jQuery. Just like its counterpart, Twitter, Twittler generates a series of tweets automatically and has some of the same functionality such as looking at a specific user's tweets. This was a fun exercise, and I'd love to expand on it more in the future! 

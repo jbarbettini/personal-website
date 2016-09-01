@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Hugo Creative Theme"
 theme = "hugo-creative-theme"
@@ -41,7 +41,7 @@ theme = "hugo-creative-theme"
 
 	# Navigation
 	[params.navigation]
-		brand = "Get Shit Done"
+		brand = "Jennifer Ong"
 
 		[params.navigation.links]
 			about     = "The tl:dr"
@@ -50,44 +50,44 @@ theme = "hugo-creative-theme"
 			contact   = "Contact"
 
 
-	# Hero section
+	# Hero sec
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Hi, I'm Jen."
-		subtitle   = "I'm an aspiring Fullstack Javascript Developer in training @Hack Reactor.<br> Former Digital Marketer & Startup Cofounder."
+		subtitle   = "I’m a full stack engineer with a strong background in JavaScript <br> and a particular love for design and user experience."
 		buttonText = "Find out more"
 
 
 	# About section
 	[params.about]
-		headline    = "My Life in a TL:DR"
-		description = "I've worn a lot of hats throughout my career, from digital marketing to business development, account management, customer support, product development, and operations. <br><br> At one point, I cofounded a company that graduated from an accelerator program, figured out our product-market fit, got investors, raised money, built our brand, developed our first product, and convinced real people to buy it. <br><br> My actual degree is in biology from UC San Diego, but it's not very useful. <br>Google is my best friend. "
+		headline    = "The TL:DR"
+		description = "I’m motivated by product design and real-world impact. I can (and have) spent hours ensuring my applications are pixel-perfect, and I especially enjoy creating solutions to problems that I personally have. <br><br> My first application was a restaurant recommendation engine, because I always struggle to answer the question, “what should I eat for dinner?” My most recent venture is a Tinder for Redditors, where I used sockets and data caching to create a live notification system, as well as React Motion to replicate the swipe animation experience. I’ve also created an interactive web game using the PIXI game engine, as well as an Android chore-tracker with React Native. <br><br> I’m experienced with front-end frameworks such as React, React Native, Redux, and Angular, and comfortable with NodeJS, Mongo, Redis, and Neo4j. Lately, I’ve been nerding out over SASS, because I find beauty in how it adds structure to the frequent chaos of CSS."
 		buttonText  = "Check Out My Resume"
 
 
 	# Service section
 	[params.services]
-		headline = "Personal Motto: Get Shit Done"
+		headline = "Hustler. Hacker. Get Shit Done-r"
 
     [[params.services.list]]
-      icon = "fa-fighter-jet"
-      title = "I thrive in the startup world"
-      description = "Four years ago, I moved from San Diego to Kansas City in pursuit of the startup dream. I'm a hustler who thrives on challenges and deadlines, a data geek who loves color-coded excel sheets, and a natural planner who always has a Plan J. "
+      icon = "fa-puzzle-piece"
+      title = "I bring more than engineering to the table"
+      description = "My engineering skills are backed by extensive experience in marketing, account management, customer support, product development, and operations.  I’ve worked in small businesses and startups (including my own) and led teams from three to twenty."  
 
     [[params.services.list]]
-			icon = "fa-puzzle-piece"
-			title = "I create order out of chaos"
-			description = "Startups have to deal with an insane amount of pressure to iterate fast; there is often no time to evaluate efficiency or build processes. That's where I come in. I excel at evaluating data and procedures to identify areas for improvement. I'll help you minimize the amount of things that you have to worry about, so that when the next curveball comes, you're better prepared to deal with it. "
+      icon = "fa-users"
+      title = "I'm all about the team"
+      description = "Because of the many hats that I have worn throughout my career, I am a team player who understands how my role can impact all other areas of the business. It’s not just about engineering; it’s about communication, teamwork, and a mutual passion to drive our product forward and faster."
 
-		[[params.services.list]]
-      icon = "fa-level-up"
-      title = "I excel at making ideas a reality"
-      description = "I may not be the person who is able to come up with the craziest idea, but I am the one who will evaluate the feasibility, research how to make it happen, find the tools to make it as cost-efficient as possible, stay on top of the project deadlines, test the hell out of it to make sure it's perfect, deliver it to customers in a meaningful way, and then get feedback for improvements."
+    [[params.services.list]] 
+			icon = "fa-fighter-jet"
+			title = "I excel in the tech world"
+			description = "Three years ago, I relocated to pursue my dream of working for startups. I love being surrounded by people who are passionate about what they do and are driven to make an impact. I thrive on challenges and deadlines, am fanatical about the tiny details, and believe that thorough planning can save hours of programming."
 
     [[params.services.list]]
       icon = "fa-smile-o"
       title = "I love what I do."
-      description = "I'm a firm believer that you're either meant for the startup world, or you're not. I wouldn't trade the chaos and uncertainty for anything in the world. I'm inspired by all the passionate people I'm surrounded with, and I'm driven to make things happen. "
+      description = "There is nothing I love more than checking things off a list, figuring out how to turn an idea into reality, and creating order out of chaos. I truly enjoy tackling every aspect of the application development, from planning and wireframing to prototyping and improving features. I’m not afraid to work hard, and I’m passionate about delivering results."
 
 
     # Portfolio modals
@@ -106,7 +106,7 @@ theme = "hugo-creative-theme"
 			# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 			[[params.contact.social]]
 				icon = "linkedin"
-				link = "//www.linkedin.com/in/jennifer.ong"
+				link = "//www.linkedin.com/in/jenong"
 
 			[[params.contact.social]]
 				icon = "github"
