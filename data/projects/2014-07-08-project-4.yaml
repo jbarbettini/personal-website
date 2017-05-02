@@ -5,5 +5,5 @@ img: synth-game.jpg
 client: Personal
 clientLink: "http://synthgame.com"
 category: React, Redux, Redis, PIXI 
-description: Synth is a interactive audio-based web game that syncs game difficulty with your preferred playlist, and gives you an unique experience every time you load a new song. Tee up your favorite playlist for hours of addictive play and listening.
+description: Synth is a interactive audio-based web game that syncs game difficulty with your preferred playlist, and gives you an unique experience every time you load a new song. Tee up your favorite playlist for hours of addictive play and listening. <br><br> Play it [here](http://synthgame.com)
 

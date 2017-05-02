@@ -1,8 +1,8 @@
 modalID: 2
-title: Reddi2Mingle - Tinder for Redditors 
+title: Reddi2Mingle, Tinder for Redditors 
 date: 2016-08-26
 img: reddi2mingle.jpg
 client: Personal
 clientLink: "http://www.reddi2mingle.com"
 category: React, Redux, SASS, Neo4j, Postgres 
-description: a;sdkja;lskjfal;ksjdf;lakjsdf;lkajsdf
+description: In this application, I designed and architected client-side application with React, Redux and SASS, and minimized queries to Neo4j graph database and PostgreSQL to enable a more seamless user experience. I was also able to create a Tinder-like experience with live match notifications using sockets and Redis, as well as implemented animations with React Motion to simulate gesture-based actions. <br><br> Check it out [here](http://reddi2mingle.com)

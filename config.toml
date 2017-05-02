@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "Jennifer Ong"
 theme = "hugo-creative-theme"
 
 [params]
@@ -20,7 +20,7 @@ theme = "hugo-creative-theme"
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 		name = "Jennifer Ong"
-		description = "Fullstack Javascript Developer in training @Hack Reactor. Former Digital Marketer & Startup Cofounder. Always Getting Shit Done."
+		description = "Full stack engineer with a strong background in JavaScript and a particular love for design and user experience | Hustler. Hacker. Get Shit Done-r"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -61,7 +61,7 @@ theme = "hugo-creative-theme"
 	# About section
 	[params.about]
 		headline    = "The TL:DR"
-		description = "I’m motivated by product design and real-world impact. I can (and have) spent hours ensuring my applications are pixel-perfect, and I especially enjoy creating solutions to problems that I personally have. <br><br> My first application was a restaurant recommendation engine, because I always struggle to answer the question, “what should I eat for dinner?” My most recent venture is a Tinder for Redditors, where I used sockets and data caching to create a live notification system, as well as React Motion to replicate the swipe animation experience. I’ve also created an interactive web game using the PIXI game engine, as well as an Android chore-tracker with React Native. <br><br> I’m experienced with front-end frameworks such as React, React Native, Redux, and Angular, and comfortable with NodeJS, Mongo, Redis, and Neo4j. Lately, I’ve been nerding out over SASS, because I find beauty in how it adds structure to the frequent chaos of CSS."
+		description = "I’m motivated by product design and real-world impact. I can (and have) spent hours ensuring my applications are pixel-perfect, and I especially enjoy turning ideas into reality.  I thrive on challenges and deadlines, am fanatical about the tiny details, and believe that thorough planning can save hours of programming. <br><br> In my most recent application, Reddi2Mingle, I used sockets and data caching to create a live notification system, as well as React Motion to better simulate gesture-based motions. To ensure a seamless user experience, I architected the front-end to minimize expensive queries to the database and loaded the information in state using React Redux. <br><br> I particularly enjoy creating solutions to problems that I personally have. For example, I built a restaurant recommendation engine, because I have always struggled with the question “what should I eat for dinner?” I’ve also designed an interactive web game using the PIXI graphics engine, as well as an Android chore-tracker with React Native. <br><br> I’m experienced with front-end frameworks such as React, React Native, Redux, and Angular, and comfortable with NodeJS, Mongo, Redis, and Neo4j. Lately, I’ve been nerding out over SASS, because I find beauty in how it adds structure to the frequent chaos of CSS."
 		buttonText  = "Check Out My Resume"
 
 
@@ -82,7 +82,7 @@ theme = "hugo-creative-theme"
     [[params.services.list]] 
 			icon = "fa-fighter-jet"
 			title = "I excel in the tech world"
-			description = "Three years ago, I relocated to pursue my dream of working for startups. I love being surrounded by people who are passionate about what they do and are driven to make an impact. I thrive on challenges and deadlines, am fanatical about the tiny details, and believe that thorough planning can save hours of programming."
+			description = "Four years ago, I relocated to pursue my dream of working for startups. I love being surrounded by people who are passionate about what they do and are driven to make an impact. I thrive on challenges and deadlines, am fanatical about the tiny details, and believe that thorough planning can save hours of programming."
 
     [[params.services.list]]
       icon = "fa-smile-o"
@@ -106,11 +106,11 @@ theme = "hugo-creative-theme"
 			# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 			[[params.contact.social]]
 				icon = "linkedin"
-				link = "//www.linkedin.com/in/jenong"
+				link = "//www.linkedin.com/in/jenbarbettini"
 
 			[[params.contact.social]]
 				icon = "github"
-				link = "//jbarbettini.github.io/"
+				link = "//github.com/jbarbettini"
 
 			[[params.contact.social]]
 				icon = "twitter"
@@ -118,7 +118,7 @@ theme = "hugo-creative-theme"
 
 			[[params.contact.social]]
 				icon = "facebook"
-				link = "//www.facebook.com/jennifer.ong"
+				link = "//www.facebook.com/jen.barbettini"
 
 			[[params.contact.social]]
 				icon = "instagram"
