@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Jennifer Ong"
+title = "Jennifer Barbettini"
 theme = "hugo-creative-theme"
 
 [params]
@@ -15,11 +15,11 @@ theme = "hugo-creative-theme"
 	# All projects of the portfolio are defined in their own files.
 	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
 	# folder into the 'data' directory at the root of this Hugo site.
-	# For more informtion take a look at the README.
+	# For more information take a look at the README.
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-		name = "Jennifer Ong"
+		name = "Jennifer Barbettini"
 		description = "Full stack engineer with a strong background in JavaScript and a particular love for design and user experience | Hustler. Hacker. Get Shit Done-r"
 
 	# The path must be relative to the static folder
@@ -36,12 +36,12 @@ theme = "hugo-creative-theme"
 		# - send a dummy email yourself to confirm your account
 		# - click the confirm link in the email from www.formspree.io
 		# - you're done. Happy mailing!
-	email = "jenn.r.ong@gmail.com"
+	email = "jen.barbettini@gmail.com"
 
 
 	# Navigation
 	[params.navigation]
-		brand = "Jennifer Ong"
+		brand = "Jennifer Barbettini"
 
 		[params.navigation.links]
 			about     = "The tl:dr"
@@ -126,7 +126,7 @@ theme = "hugo-creative-theme"
 
 
 		[params.form]
-			title = "Let's grab coffee"
+			title = "Let's grab coffee."
 			# Form fields
 			name = "Your Name"
 			email = "Your Email"
