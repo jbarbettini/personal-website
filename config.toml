@@ -54,14 +54,14 @@ theme = "hugo-creative-theme"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Hi, I'm Jen."
-		subtitle   = "I’m a full stack engineer with a strong background in JavaScript <br> and a particular love for design and user experience."
+		subtitle   = "I’m a full stack engineer with extensive experience in Javascript and Ruby <br> and a particular love for design and user experience."
 		buttonText = "Find out more"
 
 
 	# About section
 	[params.about]
 		headline    = "The TL:DR"
-		description = "I’m motivated by product design and real-world impact. I can (and have) spent hours ensuring my applications are pixel-perfect, and I especially enjoy turning ideas into reality.  I thrive on challenges and deadlines, am fanatical about the tiny details, and believe that thorough planning can save hours of programming. <br><br> In my most recent application, Reddi2Mingle, I used sockets and data caching to create a live notification system, as well as React Motion to better simulate gesture-based motions. To ensure a seamless user experience, I architected the front-end to minimize expensive queries to the database and loaded the information in state using React Redux. <br><br> I particularly enjoy creating solutions to problems that I personally have. For example, I built a restaurant recommendation engine, because I have always struggled with the question “what should I eat for dinner?” I’ve also designed an interactive web game using the PIXI graphics engine, as well as an Android chore-tracker with React Native. <br><br> I’m experienced with front-end frameworks such as React, React Native, Redux, and Angular, and comfortable with NodeJS, Mongo, Redis, and Neo4j. Lately, I’ve been nerding out over SASS, because I find beauty in how it adds structure to the frequent chaos of CSS."
+		description = "I'm currently a full-stack software engineer at Hint Health. Previously, I was Engineer #2 and a Product/QA Lead for the Customer Experience team at Gobble, where I was responsible for our public-facing marketing website, core customer-facing application, internal applications, and A/B growth initiatives.<br><br>I’m motivated by product design and real-world impact. I can (and have) spent hours ensuring my applications are pixel-perfect, and I especially enjoy turning ideas into reality.<br><br>In my spare time, I particularly enjoy creating solutions to problems that I personally have. For example, my first application was a restaurant recommendation engine, because I have always struggled with the question “what should I eat for dinner?” I’ve also recently contributed to a debugger tool to help other developers understand the protocols behind OAuth and OpenID Connect flows.<br><br>I believe in companies that encourage life outside of work, understand that thorough planning can save hours of programming, appreciate engineers with diverse backgrounds and skillsets, and value getting (sh)it done :) Bonus points if I can easily explain to my non-technical parents exactly what I do and why it's important."
 		buttonText  = "Check Out My Resume"
 
 
@@ -72,14 +72,14 @@ theme = "hugo-creative-theme"
     [[params.services.list]]
       icon = "fa-puzzle-piece"
       title = "I bring more than engineering to the table"
-      description = "My engineering skills are backed by extensive experience in marketing, account management, customer support, product development, and operations.  I’ve worked in small businesses and startups (including my own) and led teams from three to twenty."  
+      description = "My engineering skills are backed by extensive experience in marketing, account management, customer support, product development, and operations.  I’ve worked in small businesses and startups (including my own) and led teams from three to twenty."
 
     [[params.services.list]]
       icon = "fa-users"
       title = "I'm all about the team"
       description = "Because of the many hats that I have worn throughout my career, I am a team player who understands how my role can impact all other areas of the business. It’s not just about engineering; it’s about communication, teamwork, and a mutual passion to drive our product forward and faster."
 
-    [[params.services.list]] 
+    [[params.services.list]]
 			icon = "fa-fighter-jet"
 			title = "I excel in the tech world"
 			description = "Four years ago, I relocated to pursue my dream of working for startups. I love being surrounded by people who are passionate about what they do and are driven to make an impact. I thrive on challenges and deadlines, am fanatical about the tiny details, and believe that thorough planning can save hours of programming."
